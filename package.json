@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^0.5.3",
+    "ethers": "5.7.1",
+    "lord-icon-element": "^3.4.3",
+    "lottie-web": "^5.9.6",
     "next": "12.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "use-debounce": "^8.0.4",
+    "wagmi": "^0.6.6"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.11",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.0"
+    "eslint-config-next": "12.3.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
