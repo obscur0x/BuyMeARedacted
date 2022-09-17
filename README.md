@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Buy Me A {Redacted}
+
+I decided to make a Buy Me a Coffee website but since I don't drink coffee. Buy Me a {Redacted}
+This was created with [Next.js](https://nextjs.org/) that uses [RainbowKit](https://www.rainbowkit.com/) for the wallet connection and [Wagmi](https://wagmi.sh/) for the smart contract interaction.
+
+All of the information submitted in the input boxes is stored on-chain.
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/90666986/190873652-0b614e61-6a7e-4c67-8fc0-ce4318eb7e96.png">
+
 
 ## Getting Started
 
