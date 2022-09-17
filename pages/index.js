@@ -47,8 +47,8 @@ export default function IndexPage() {
                   Buy Lucas a {redacted}
                 </h1>
                 <p className="font-light text-gray-500 md:w-[600px] w-full px-4 text-center text-sm">
-                  I don't really drink coffee so I'll let you pick and choose
-                  what you want me to spend your fake internet money on.
+                  I don&#39;t really drink coffee so I&#39;ll let you pick and
+                  choose what you want me to spend your fake internet money on.
                 </p>
                 <Profile />
               </div>
@@ -115,12 +115,14 @@ export default function IndexPage() {
                   <a
                     href="https://arbiscan.io/address/0x9c9F8A8E8D6aA127608e2D3d1A70F5B7F0e68427"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Contract
                   </a>
                   <a
                     href="https://arbiscan.io/address/0x9c9F8A8E8D6aA127608e2D3d1A70F5B7F0e68427"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Github
                   </a>

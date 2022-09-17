@@ -133,6 +133,7 @@ export function Inputs({redacted, setRedacted}) {
             <a
               className="underline"
               target="_blank"
+              rel="noreferrer"
               href={`https://arbiscan.io/address/${data?.hash}`}
             >
               Etherscan
